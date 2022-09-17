@@ -1,0 +1,5 @@
+#!/bin/zsh
+
+# copy configs into home folder
+cp -pr .zshrc .config  ~/
+
